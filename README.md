@@ -1,9 +1,10 @@
-<h1> WebJam </h1>
+<div align="center">
+  <img alt="Logo" src="assets/media/icon/icon-100x100.png" width="100" />
+</div>
 
-<p> A web design competition for the TECHNOFEST 2022 </p>
-<p> WebJam is a week-long, fun-filled, teamwork-based web design competition that is aimed at bringing the best design out of the best people! </p>
+<h1 align="center"> WebJam Technofest 2022 </h1>
 
-<br>
+<p align="center"> WebJam is a week-long, fun-filled, teamwork-based web design competition that was organized by the JPCS - Junior Philippine Computer Society during the Technofest 2022 Activities. </p>
 
 <p align="center">
   <a href="https://app.netlify.com/sites/technofest2022/deploys" target="_blank">
