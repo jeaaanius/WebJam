@@ -1,8 +1,7 @@
-<h1 align="center">WebJam</h1>
+<h1> WebJam </h1>
 
-<p align="center">  
-  A web design competition for the TECHNOFEST 2022
-</p>
+<p> A web design competition for the TECHNOFEST 2022 </p>
+<p> WebJam is a week-long, fun-filled, teamwork-based web design competition that is aimed at bringing the best design out of the best people! </p>
 
 <br>
 
